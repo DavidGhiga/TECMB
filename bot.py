@@ -7,4 +7,4 @@ bot = commands.Bot(command_prefix="!", description="")
 async def on_ready():
   bot.load_extension("cogs.music")
 
-bot.run("ODk3NDk3OTAxNTY2MTYwOTA2.YWWiDg.v0-H91vUWhUQw0uz-t_L4TROKZg")
+bot.run("token")
